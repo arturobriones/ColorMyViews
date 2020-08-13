@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marging_widwe">16dp</dimen>
+    <dimen name="marging_half">8dp</dimen>
+    <dimen name="box_text_size">24dp</dimen>
+</resources>
